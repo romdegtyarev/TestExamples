@@ -1,0 +1,6 @@
+message AMessage {
+  required int32 length = 2;
+  required int32 sleeptime = 3;
+  required int32 clienttype = 4;
+  required string message = 1;
+}
